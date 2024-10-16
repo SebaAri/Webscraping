@@ -1,2 +1,2 @@
-# Webscraping
+# Web scraping
 # Word cloud
